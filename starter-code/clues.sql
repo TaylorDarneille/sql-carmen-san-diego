@@ -1,4 +1,4 @@
-postgres=# \i C:/Users/ecgue/Documents/General_Assembly/Unit_2/Carmen-Sandiego/sql-carmen-san-diego/starter-code/world.sql
+
 
 -- Clue #1: We recently got word that someone fitting Carmen Sandiego's description has been
 -- traveling through Southern Europe. She's most likely traveling someplace where she won't be noticed,
